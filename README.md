@@ -1,2 +1,2 @@
-# face-Detection
-![face](https://github.com/user-attachments/assets/c3c77b60-63f2-4316-8bfc-12cfbdf7619c)
+
+![image](https://github.com/user-attachments/assets/1c8a64fa-44b8-43ca-a391-fa33620364a2)
